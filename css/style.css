@@ -383,7 +383,7 @@ h3.my-profession {
   border-bottom: 6px solid var(--skin-color);
   border-right: 6px solid var(--skin-color);
   right:29px;
-  bottom: 70px;
+  bottom:-5px;
   
 }
 
