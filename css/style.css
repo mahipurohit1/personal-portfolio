@@ -930,3 +930,11 @@ h3.my-profession {
     margin-bottom: 0;
   }
 } 
+.topx{
+  top:20%
+}
+@media (max-width: 400px) {
+ .topx{
+  top:6%
+ }
+} 
