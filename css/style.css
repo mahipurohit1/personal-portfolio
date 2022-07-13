@@ -696,12 +696,12 @@ h3.my-profession {
   font-size: 18px;
   
   margin-bottom: 20px;
-  color: var(--bg-black-900) !important;
+  color: #fff !important;
 }
 .techx{
   letter-spacing: 1px;
   font-size: 20px;
-  color: var(--bg-black-900) !important;
+  color:#fff !important;
 }
 .techy{
   letter-spacing: 1px;
